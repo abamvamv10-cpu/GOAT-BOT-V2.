@@ -1,5 +1,5 @@
 {
-  "facebookAccount": {
+  "facebookAccount": {https://www.facebook.com/profile.php?id=61573657085244
     "email": "",
     "password": "",
     "2FASecret": "",
@@ -12,12 +12,12 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "authorName": "rexy",
-  "OWNER": "rexy",
+  "authorName": "Abdullah",
+  "OWNER": "Abdullah",
   "AGE": "15+",
   "SEX": "MALE",
-  "nickNameBot": "goat bot",
-  "prefix": "-",
+  "nickNameBot": "Bot of Leaf",
+  "prefix": ".",
   "adminPrefix": "#",
   "adminOnly": {
     "enable": false,
@@ -25,8 +25,8 @@
   },
   "main_admin": "",
   "main_admins": [
-    "100007806468843",
-    "100003843460849"
+    "61573657085244",
+    ""
   ],
   "premium": {
     "users": [
@@ -215,13 +215,14 @@
       "unloadedAt": "2025-09-24T02:12:51.398Z"
     }
   ],
-  "mainAdmin": "61556512630729",
+  "mainAdmin": "61573657085244",
   "mainAdmins": [
-    "100007806468843",
-    "100049220893428"
+    "",
+    ""
   ],
   "loadedCommands": [],
   "commandSettings": {},
   "operatorBot": [],
-  "vipUser": []
+  "vipUser": [61573657085244]
 }
+
